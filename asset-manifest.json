@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zoomcq-1/static/css/main.3d10672c.css",
+    "main.js": "/zoomcq-1/static/js/main.738be816.js",
+    "static/media/12.ogg": "/zoomcq-1/static/media/12.487c8fb2be52e3f4ed67.ogg",
+    "static/media/nyanlin.png": "/zoomcq-1/static/media/nyanlin.12eb9d23573e9cc8d87d.png",
+    "index.html": "/zoomcq-1/index.html",
+    "main.3d10672c.css.map": "/zoomcq-1/static/css/main.3d10672c.css.map",
+    "main.738be816.js.map": "/zoomcq-1/static/js/main.738be816.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d10672c.css",
+    "static/js/main.738be816.js"
+  ]
+}
