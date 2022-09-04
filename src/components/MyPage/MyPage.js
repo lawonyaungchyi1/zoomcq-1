@@ -28,11 +28,6 @@ const MyPage = () => {
           <MessageBox>
             ""သားကြီး မင်းလည်းငါနဲ့အတူတူ Zooဌာနကိုသွားရမှာပါပဲ။""😂😂😂😂
           </MessageBox>
-          <img
-            src={nyanlin}
-            alt="Nyan Lin Image"
-            style={{ width: "240px", marginLeft: "30px" }}
-          />
         </div>
       )}
     </>

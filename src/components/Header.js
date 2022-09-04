@@ -30,7 +30,7 @@ const Header = () => {
             color: "#0b090a",
           }}
         >
-          Created By - Nyan Lin Tun(Zo Zo)
+          Created By - (Zo Zo)
         </Typography>
       </Box>
     </>
